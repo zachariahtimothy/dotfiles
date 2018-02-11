@@ -1,4 +1,6 @@
-# Mathias’s dotfiles
+# Zach's dotfiles
+
+Based on [Mathia's Dotfiles](https://github.com/mathiasbynens/dotfiles)
 
 ![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
 
