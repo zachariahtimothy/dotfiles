@@ -100,8 +100,8 @@ brew cask install filezilla
 brew cask install sequel-pro
 brew cask install visual-studio-code
 brew cask install vmware-fusion
-brew cask install google-chrome
-brew cask install google-cloud-sdk
+#brew cask install google-chrome
+#brew cask install google-cloud-sdk
 brew cask install google-backup-and-sync
 brew cask install dropbox
 # VPN
